@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RelaxApp</string>
+    <string name="hello">ПРИВЕТ</string>
+    <string name="enjoy">Наслаждайся отборочными.</string>
+    <string name="pay_attention">Будь внимателен.</string>
+    <string name="do_well">Делай хорошо.</string>
+    <string name="login">Войти в аккаунт</string>
+    <string name="no_account_yet">Еще нет аккаунта?</string>
+    <string name="register_rus">Зарегистрируйтесь!</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign in</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="username">Username</string>
+    <string name="exit">Exit</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_feed">Feed</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="group">Group 951008</string>
+    <string name="student">Artsiom Sharakhouski</string>
+    <string name="task">Task #2</string>
+    <string name="block_header">Заголовок блока</string>
+    <string name="block_description">Кратенькое описание блока с двумя строчками</string>
+    <string name="block_button_text">Подробнее</string>
+</resources>
